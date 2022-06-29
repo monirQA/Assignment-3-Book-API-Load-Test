@@ -14,7 +14,7 @@
 
 - [Server](https://demoqa.com/BookStore/v1/Books)
 
-| ![TPS Report](./Images/load-test-strategy.PNG) |
+| ![TPS Report](./images/load-test-strategy.PNG) |
 | :------------------------------------: |
 |              _Actual TPS_              |
 
