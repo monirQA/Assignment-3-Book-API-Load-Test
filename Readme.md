@@ -8,7 +8,7 @@
 
 ##### **Solved**
 
-- #### [**Excel and Word Report**](https://github.com/mnomanme/sweet-breakup-sqa/tree/main/03-JMeter-assignment-01/resources)
+- #### [**Excel and Word Report**](https://github.com/monirQA/Assignment-3-Book-API-Load-Test/tree/master/Resources)
 
 #### **Load Test Strategy**
 
@@ -20,33 +20,33 @@
 
 #### **JMeter Summary Report**
 
-- 167 users for 60 seconds
+- 166 users for 60 seconds
 
-| ![Test Case 1](./Images/load-status-60s.PNG) |
+| ![Test Case 1](./images/load-status-60s.PNG) |
 | :----------------------------------: |
 |         _60 sec, 166 users_          |
 
 - 833 users for 300 seconds
 
-| ![Test Case 2](./Images/load-status-300s.PNG) |
+| ![Test Case 2](./images/load-status-300s.PNG) |
 | :----------------------------------: |
 |         _300 sec, 833 users_         |
 
-- 1667 users for 600 seconds
+- 1666 users for 600 seconds
 
-| ![Test Case 3](./Images/load-status-600s.PNG)|
+| ![Test Case 3](./images/load-status-600s.PNG)|
 | :----------------------------------: |
-|        _600 sec, 1667 users_         |
+|        _600 sec, 1666 users_         |
 
 - 2500 users for 900 seconds (part-1)
 
-| ![Test Case 4](./Images/load-status-900s%20part1.PNG) |
+| ![Test Case 4](./images/load-status-900s%20part1.PNG) |
 | :----------------------------------: |
 |        _900 sec, 2500 users_         |
 
 - 2500 users for 900 seconds
 
-| ![Test Case 5](./Images/load-status-900s%20part2.PNG) |
+| ![Test Case 5](./images/load-status-900s%20part2.PNG) |
 | :-------------------------------------: |
 |          _900 sec, 2500 users_          |
 
