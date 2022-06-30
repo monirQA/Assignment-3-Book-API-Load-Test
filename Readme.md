@@ -44,13 +44,13 @@
 | :----------------------------------: |
 |        _900 sec, 2500 users_         |
 
-- 2500 users for 900 seconds
+- 2500 users for 900 seconds (Part 2)
 
 | ![Test Case 5](./images/load-status-900s%20part2.PNG) |
 | :-------------------------------------: |
 |          _900 sec, 2500 users_          |
 
-- 2500 users for 900 seconds (part-2)
+- Test and Report information - 2500 users for 90 seconds
 
 | ![Test Summary Report](./images/Apache%20JMeter%20Dashboard.png) |
 | :------------------------------------------: |
